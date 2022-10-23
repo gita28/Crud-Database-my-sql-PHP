@@ -1,8 +1,3 @@
-/*
-SQLyog Enterprise v12.4.3 (64 bit)
-MySQL - 10.1.25-MariaDB : Database - db_kampus
-*********************************************************************
-*/
 
 /*!40101 SET NAMES utf8 */;
 
